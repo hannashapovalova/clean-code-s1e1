@@ -11,7 +11,7 @@ body {
   text-align: right;
 }
 .matrix-wrap img {
-    width: 100%;
+  width: 100%;
 }
 .matrix-wrap .details-link {
   font-family: fantasy, cursive;
@@ -42,7 +42,7 @@ body {
   padding: 0px;
 }
 .task-list-item, .section-title {
-    list-style:none;
+  list-style:none;
 }
 .form-input, .form-button{
   outline:none;
