@@ -4,26 +4,26 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.eisenhower-matrix-wrapper {
+.matrix-wrap {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.eisenhower-matrix-wrapper img {
+.matrix-wrap img {
     width: 100%;
 }
-.eisenhower-matrix-wrapper .details-link {
+.matrix-wrap .details-link {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .eisenhower-matrix-wrapper { 
+  .matrix-wrap { 
     text-align: center;
   }
 }
 
-.centered-main-page-element {
+.main-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -34,7 +34,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-row {
   display: flex;
 }
 ul {
